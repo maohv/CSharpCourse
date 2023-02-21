@@ -1,0 +1,24 @@
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.exe.config
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.pdb
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.pdb
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.exe.config
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.exe
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.pdb
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.exe
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.pdb
+C:\Users\PC\source\repos\C-Course\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.exe.config
+C:\Users\PC\source\repos\C-Course\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.exe
+C:\Users\PC\source\repos\C-Course\Lesson33_Namespace_Partial_Class\bin\Debug\Lesson33_Namespace_Partial_Class.pdb
+C:\Users\PC\source\repos\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.exe
+C:\Users\PC\source\repos\C-Course\Lesson33_Namespace_Partial_Class\obj\Debug\Lesson33_Namespace_Partial_Class.pdb

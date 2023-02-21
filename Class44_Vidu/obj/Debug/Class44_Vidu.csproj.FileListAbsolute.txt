@@ -1,0 +1,16 @@
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class44_Vidu\bin\Debug\Class44_Vidu.exe.config
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class44_Vidu\bin\Debug\Class44_Vidu.exe
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class44_Vidu\bin\Debug\Class44_Vidu.pdb
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.exe
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.pdb
+C:\Users\PC\source\repos\C-Course\Class44_Vidu\bin\Debug\Class44_Vidu.exe.config
+C:\Users\PC\source\repos\C-Course\Class44_Vidu\bin\Debug\Class44_Vidu.exe
+C:\Users\PC\source\repos\C-Course\Class44_Vidu\bin\Debug\Class44_Vidu.pdb
+C:\Users\PC\source\repos\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.exe
+C:\Users\PC\source\repos\C-Course\Class44_Vidu\obj\Debug\Class44_Vidu.pdb

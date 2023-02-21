@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.AssemblyInfo.cs
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.exe
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.deps.json
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.runtimeconfig.json
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.dll
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.pdb
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.dll
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\refint\Date_Time.dll
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.pdb
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.genruntimeconfig.cache
+C:\Users\PC\source\repos\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\ref\Date_Time.dll
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.exe
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.deps.json
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.runtimeconfig.json
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.dll
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\bin\Debug\net6.0\Date_Time.pdb
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.AssemblyInfoInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.AssemblyInfo.cs
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.dll
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\refint\Date_Time.dll
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.pdb
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\Date_Time.genruntimeconfig.cache
+C:\Users\Hoang Mao\source\repos\C#\C-Course\Class54_Struct_DateOnly\obj\Debug\net6.0\ref\Date_Time.dll
