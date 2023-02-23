@@ -100,7 +100,11 @@
     <None Include="Lesson64.cs" />
     <None Include="Lesson63.cs" />
     <None Include="Lesson65.cs" />
-    <Compile Include="Lesson66.cs" />
+    <None Include="Lesson66.cs" />
+    <None Include="Lesson67.cs" />
+    <None Include="Lesson68.cs" />
+    <None Include="Lesson69.cs" />
+    <Compile Include="Lesson70.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
