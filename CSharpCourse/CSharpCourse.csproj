@@ -104,7 +104,8 @@
     <None Include="Lesson67.cs" />
     <None Include="Lesson68.cs" />
     <None Include="Lesson69.cs" />
-    <Compile Include="Lesson70.cs" />
+    <None Include="Lesson70.cs" />
+    <Compile Include="Lesson71.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
