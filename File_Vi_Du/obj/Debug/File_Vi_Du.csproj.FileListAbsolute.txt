@@ -31,3 +31,14 @@ C:\Users\PC\source\repos\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.csproj.Cor
 C:\Users\PC\source\repos\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.csproj.CopyComplete
 C:\Users\PC\source\repos\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.exe
 C:\Users\PC\source\repos\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.pdb
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\bin\Debug\File_Vi_Du.exe.config
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\bin\Debug\File_Vi_Du.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\bin\Debug\File_Vi_Du.pdb
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.csproj.CopyComplete
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\File_Vi_Du\obj\Debug\File_Vi_Du.pdb
