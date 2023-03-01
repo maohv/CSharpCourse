@@ -34,9 +34,13 @@ namespace LINQ
             };
 
 
-            var studentsQuery = from student in students
-                                orderby student.Id
-                                select student;
+            //var studentsQuery = from student in students
+            //                    orderby student.Address ascending, student.Id ascending // sắp xếp tăng dần
+            //                    select student;
+
+            var studentsQuery = students.Select(student => student)
+                                        .OrderBy(student => student.Id) 
+                                        .ThenBy(student => student.Id); //thenby tiếp tục theo tiêu chí tăng dần
             foreach (var item in studentsQuery)
             {
                 Console.WriteLine(item);
