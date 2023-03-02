@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\CSharpCourse\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpCourse\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\CSharpCourse\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpCourse\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\PC\source\repos\CSharpCourse\LINQ\bin\Debug\LINQ.exe
+C:\Users\PC\source\repos\CSharpCourse\LINQ\bin\Debug\LINQ.pdb
+C:\Users\PC\source\repos\CSharpCourse\LINQ\obj\Debug\LINQ.exe
+C:\Users\PC\source\repos\CSharpCourse\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\LINQ\bin\Debug\LINQ.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\LINQ\obj\Debug\LINQ.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\LINQ\obj\Debug\LINQ.pdb

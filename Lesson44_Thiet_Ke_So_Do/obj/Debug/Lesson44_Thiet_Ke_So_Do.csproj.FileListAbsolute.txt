@@ -14,3 +14,8 @@ C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson44_Thiet_Ke_So_Do\obj\Debug\Le
 C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson44_Thiet_Ke_So_Do\bin\Debug\Lesson44_Thiet_Ke_So_Do.exe.config
 C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson44_Thiet_Ke_So_Do\bin\Debug\Lesson44_Thiet_Ke_So_Do.exe
 C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson44_Thiet_Ke_So_Do\bin\Debug\Lesson44_Thiet_Ke_So_Do.pdb
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson44_Thiet_Ke_So_Do\obj\Debug\Lesson44_Thiet_Ke_So_Do.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson44_Thiet_Ke_So_Do\obj\Debug\Lesson44_Thiet_Ke_So_Do.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson44_Thiet_Ke_So_Do\obj\Debug\Lesson44_Thiet_Ke_So_Do.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson44_Thiet_Ke_So_Do\obj\Debug\Lesson44_Thiet_Ke_So_Do.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Lesson44_Thiet_Ke_So_Do\obj\Debug\Lesson44_Thiet_Ke_So_Do.pdb

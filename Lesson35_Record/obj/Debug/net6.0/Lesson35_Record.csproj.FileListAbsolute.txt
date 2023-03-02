@@ -43,3 +43,18 @@ C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson35_Record\obj\Debug\net6.0\ref
 C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.pdb
 C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.genruntimeconfig.cache
 C:\Users\Hoang Mao\source\repos\C#\C-Course\Lesson35_Record\obj\Debug\net6.0\ref\Lesson35_Record.dll
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\bin\Debug\net6.0\Lesson35_Record.exe
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\bin\Debug\net6.0\Lesson35_Record.deps.json
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\bin\Debug\net6.0\Lesson35_Record.runtimeconfig.json
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\bin\Debug\net6.0\Lesson35_Record.dll
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\bin\Debug\net6.0\Lesson35_Record.pdb
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.dll
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\refint\Lesson35_Record.dll
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.pdb
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\Lesson35_Record.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharpCourse\Lesson35_Record\obj\Debug\net6.0\ref\Lesson35_Record.dll

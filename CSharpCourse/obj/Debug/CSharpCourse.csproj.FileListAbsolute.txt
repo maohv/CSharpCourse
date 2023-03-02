@@ -30,3 +30,8 @@ C:\Users\PC\source\repos\C-Course\CSharpCourse\bin\Debug\CSharpCourse.exe
 C:\Users\PC\source\repos\C-Course\CSharpCourse\bin\Debug\CSharpCourse.pdb
 C:\Users\PC\source\repos\C-Course\CSharpCourse\obj\Debug\CSharpCourse.exe
 C:\Users\PC\source\repos\C-Course\CSharpCourse\obj\Debug\CSharpCourse.pdb
+C:\Users\PC\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.exe
+C:\Users\PC\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.pdb
