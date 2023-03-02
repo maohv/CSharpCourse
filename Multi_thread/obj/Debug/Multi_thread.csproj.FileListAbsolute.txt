@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\CSharpCourse\Multi_thread\bin\Debug\Multi_thread.exe.config
+C:\Users\PC\source\repos\CSharpCourse\Multi_thread\bin\Debug\Multi_thread.exe
+C:\Users\PC\source\repos\CSharpCourse\Multi_thread\bin\Debug\Multi_thread.pdb
+C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.exe
+C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.pdb
