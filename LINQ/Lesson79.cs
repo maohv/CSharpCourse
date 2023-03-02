@@ -19,30 +19,30 @@ namespace LINQ
         {
             Console.OutputEncoding = Encoding.UTF8;
             // danh sách sinh viên
-            var Students1 = new List<Student1>()
+            var Students1 = new List<Student>()
             {
-                new Student1("B25DCCN107", "Trần Trung Đức", "Hà Nội"),
-                new Student1("B25DCCN100", "Trần Trung Đức", "Cao Bằng"),
-                new Student1("B25DCCN100", "Trần Trung Đức", "Cao Bằng"),
-                new Student1("B25DCCN105", "Lê Khả Ngân", "Nam Định"),
-                new Student1("B25DCCN103", "Hoàng Thanh Mai", "Đà Nẵng"),
-                new Student1("B25DCCN103", "Hoàng Thanh Mai", "Đà Nẵng"),
-                new Student1("B25DCCN109", "Nguyễn Thúy Quyên", "Hà Nội"),
-                new Student1("B25DCCN106", "Nông Tiến Mạnh", "Thái Nguyên"),
-                new Student1("B25DCCN106", "Nông Tiến Mạnh", "Thái Nguyên"),
-                new Student1("B25DCCN101", "Hồ Hoài Anh", "Hà Nội"),
-                new Student1("B25DCCN104", "Trương Thanh Thức", "Hồ Chí Minh"),
-                new Student1("B25DCCN104", "Trương Thanh Thức", "Hồ Chí Minh"),
-                new Student1("B25DCCN108", "Đỗ Hoàng Long", "Hồ Chí Minh")
+                new Student("B25DCCN107", "Trần Trung Đức", "Hà Nội"),
+                new Student("B25DCCN100", "Trần Trung Đức", "Cao Bằng"),
+                new Student("B25DCCN100", "Trần Trung Đức", "Cao Bằng"),
+                new Student("B25DCCN105", "Lê Khả Ngân", "Nam Định"),
+                new Student("B25DCCN103", "Hoàng Thanh Mai", "Đà Nẵng"),
+                new Student("B25DCCN103", "Hoàng Thanh Mai", "Đà Nẵng"),
+                new Student("B25DCCN109", "Nguyễn Thúy Quyên", "Hà Nội"),
+                new Student("B25DCCN106", "Nông Tiến Mạnh", "Thái Nguyên"),
+                new Student("B25DCCN106", "Nông Tiến Mạnh", "Thái Nguyên"),
+                new Student("B25DCCN101", "Hồ Hoài Anh", "Hà Nội"),
+                new Student("B25DCCN104", "Trương Thanh Thức", "Hồ Chí Minh"),
+                new Student("B25DCCN104", "Trương Thanh Thức", "Hồ Chí Minh"),
+                new Student("B25DCCN108", "Đỗ Hoàng Long", "Hồ Chí Minh")
             };
 
-            var Students2 = new List<Student1>()
+            var Students2 = new List<Student>()
             {
-                new Student1("B25DCCN107", "Trần Trung Đức", "Hà Nội"),
-                new Student1("B25DCCN100", "Trần Trung Đức", "Cao Bằng"),
-                new Student1("B25DCCN110", "Trần Trung Dũng", "Thái Bình"),
-                new Student1("B25DCCN104", "Trương Thanh Thức", "Hồ Chí Minh"),
-                new Student1("B25DCCN108", "Đỗ Hoàng Long", "Hồ Chí Minh")
+                new Student("B25DCCN107", "Trần Trung Đức", "Hà Nội"),
+                new Student("B25DCCN100", "Trần Trung Đức", "Cao Bằng"),
+                new Student("B25DCCN110", "Trần Trung Dũng", "Thái Bình"),
+                new Student("B25DCCN104", "Trương Thanh Thức", "Hồ Chí Minh"),
+                new Student("B25DCCN108", "Đỗ Hoàng Long", "Hồ Chí Minh")
             };
 
             // 4: Union
@@ -78,32 +78,6 @@ namespace LINQ
             //{
             //    Console.WriteLine(item);
             //}
-        }
-    }
-
-    struct Student1
-    {
-        public string Id { get; set; }
-        public string FullName { get; set; }
-        public string Address { get; set; }
-        public Student1(string id, string fullName, string address)
-        {
-            Id = id;
-            FullName = fullName;
-            Address = address;
-        }
-        public override string ToString() => $"Student1[{Id}, {FullName}, {Address}]";
-        public override bool Equals(object obj)
-        {
-            return obj is Student1 Student1 && Equals(Student1);
-        }
-        public bool Equals(Student1 other)
-        {
-            return Id == other.Id;
-        }
-        public override int GetHashCode()
-        {
-            return 2108858624 + EqualityComparer<string>.Default.GetHashCode(Id);
         }
     }
 

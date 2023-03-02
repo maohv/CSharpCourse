@@ -45,7 +45,12 @@
   <ItemGroup>
     <None Include="Lesson77.cs" />
     <None Include="Lesson78.cs" />
-    <Compile Include="Lesson79.cs" />
+    <None Include="Lesson79.cs" />
+    <None Include="Lesson80.cs" />
+    <None Include="Lesson81.cs" />
+    <None Include="Lesson82.cs" />
+    <None Include="Lesson83.cs" />
+    <Compile Include="Lesson84.cs" />
     <Compile Include="RegisteredSubject.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Teacher.cs" />
