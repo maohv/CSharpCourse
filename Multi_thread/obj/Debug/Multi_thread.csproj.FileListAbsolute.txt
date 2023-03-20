@@ -6,3 +6,11 @@ C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.csproj
 C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.exe
 C:\Users\PC\source\repos\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.pdb
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Multi_thread\bin\Debug\Multi_thread.exe.config
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Multi_thread\bin\Debug\Multi_thread.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Multi_thread\bin\Debug\Multi_thread.pdb
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Multi_thread\obj\Debug\Multi_Thread.csproj.AssemblyReference.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Multi_thread\obj\Debug\Multi_Thread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Multi_thread\obj\Debug\Multi_Thread.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.exe
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\Multi_thread\obj\Debug\Multi_thread.pdb

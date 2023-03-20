@@ -46,7 +46,12 @@
     <None Include="Program.cs" />
     <None Include="Lesson86.cs" />
     <None Include="Lesson87.cs" />
-    <Compile Include="Lesson88.cs" />
+    <None Include="Lesson88.cs" />
+    <None Include="Lesson89.cs" />
+    <None Include="Lesson90.cs" />
+    <None Include="Lesson91.cs" />
+    <None Include="Lesson92.cs" />
+    <Compile Include="Lesson93.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
