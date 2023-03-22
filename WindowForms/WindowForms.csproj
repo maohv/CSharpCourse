@@ -58,6 +58,12 @@
     <Compile Include="LearnButtonForm.Designer.cs">
       <DependentUpon>LearnButtonForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="LearnLabelTextbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnLabelTextbox.Designer.cs">
+      <DependentUpon>LearnLabelTextbox.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="LearnButtonForm.resx">
       <DependentUpon>LearnButtonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnLabelTextbox.resx">
+      <DependentUpon>LearnLabelTextbox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
