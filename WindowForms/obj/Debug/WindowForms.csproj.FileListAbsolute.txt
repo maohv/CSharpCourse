@@ -12,3 +12,4 @@ C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForm
 C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.LoginForm.resources
 C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.LearnButtonForm.resources
 C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.LearnLabelTextbox.resources
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.CheckBox.resources
