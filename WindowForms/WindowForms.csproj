@@ -106,6 +106,18 @@
     <Compile Include="LearnPictureBox.Designer.cs">
       <DependentUpon>LearnPictureBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="LearnProgressBarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnProgressBarForm.Designer.cs">
+      <DependentUpon>LearnProgressBarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnSaveFileDialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnSaveFileDialogForm.Designer.cs">
+      <DependentUpon>LearnSaveFileDialogForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -144,6 +156,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="LearnPictureBox.resx">
       <DependentUpon>LearnPictureBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnProgressBarForm.resx">
+      <DependentUpon>LearnProgressBarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnSaveFileDialogForm.resx">
+      <DependentUpon>LearnSaveFileDialogForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>

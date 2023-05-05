@@ -16,7 +16,7 @@ namespace WindowForms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);        
-            Application.Run(new LearnDataGirdView());
+            Application.Run(new LearnProgressBarForm());
         }
     }
 }

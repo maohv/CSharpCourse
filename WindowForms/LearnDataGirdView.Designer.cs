@@ -29,14 +29,15 @@
         private void InitializeComponent()
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dataGridViewStudent = new System.Windows.Forms.DataGridView();
+            this.button1 = new System.Windows.Forms.Button();
             this.ColId = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColFullName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColBirthDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColMajor = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColGpa = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColRemove = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStudent)).BeginInit();
             this.SuspendLayout();
             // 
@@ -61,38 +62,10 @@
             this.ColRemove});
             this.dataGridViewStudent.Location = new System.Drawing.Point(3, 46);
             this.dataGridViewStudent.Name = "dataGridViewStudent";
+            this.dataGridViewStudent.ReadOnly = true;
             this.dataGridViewStudent.Size = new System.Drawing.Size(795, 406);
             this.dataGridViewStudent.TabIndex = 0;
-            // 
-            // ColId
-            // 
-            this.ColId.HeaderText = "Mã SV";
-            this.ColId.Name = "ColId";
-            // 
-            // ColFullName
-            // 
-            this.ColFullName.HeaderText = "Họ Và Tên";
-            this.ColFullName.Name = "ColFullName";
-            // 
-            // ColBirthDate
-            // 
-            this.ColBirthDate.HeaderText = "Ngày Sinh";
-            this.ColBirthDate.Name = "ColBirthDate";
-            // 
-            // ColMajor
-            // 
-            this.ColMajor.HeaderText = "Chuyên Ngành";
-            this.ColMajor.Name = "ColMajor";
-            // 
-            // ColGpa
-            // 
-            this.ColGpa.HeaderText = "Điểm TB";
-            this.ColGpa.Name = "ColGpa";
-            // 
-            // ColRemove
-            // 
-            this.ColRemove.HeaderText = "Xóa";
-            this.ColRemove.Name = "ColRemove";
+            this.dataGridViewStudent.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.UpdateTableDataHandler);
             // 
             // button1
             // 
@@ -103,6 +76,47 @@
             this.button1.Text = "Nạp dữ liệu";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.FillDataHandler);
+            // 
+            // ColId
+            // 
+            this.ColId.HeaderText = "Mã SV";
+            this.ColId.Name = "ColId";
+            this.ColId.ReadOnly = true;
+            // 
+            // ColFullName
+            // 
+            this.ColFullName.HeaderText = "Họ Và Tên";
+            this.ColFullName.Name = "ColFullName";
+            this.ColFullName.ReadOnly = true;
+            // 
+            // ColBirthDate
+            // 
+            this.ColBirthDate.HeaderText = "Ngày Sinh";
+            this.ColBirthDate.Name = "ColBirthDate";
+            this.ColBirthDate.ReadOnly = true;
+            // 
+            // ColMajor
+            // 
+            this.ColMajor.HeaderText = "Chuyên Ngành";
+            this.ColMajor.Name = "ColMajor";
+            this.ColMajor.ReadOnly = true;
+            // 
+            // ColGpa
+            // 
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            this.ColGpa.DefaultCellStyle = dataGridViewCellStyle2;
+            this.ColGpa.HeaderText = "Điểm TB";
+            this.ColGpa.Name = "ColGpa";
+            this.ColGpa.ReadOnly = true;
+            // 
+            // ColRemove
+            // 
+            this.ColRemove.HeaderText = "Xóa";
+            this.ColRemove.Name = "ColRemove";
+            this.ColRemove.ReadOnly = true;
+            this.ColRemove.Text = "Xóa";
+            this.ColRemove.ToolTipText = "Xóa bỏ bản ghi này";
+            this.ColRemove.UseColumnTextForButtonValue = true;
             // 
             // LearnDataGirdView
             // 
@@ -121,12 +135,12 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridViewStudent;
+        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColId;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColFullName;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColBirthDate;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColMajor;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColGpa;
         private System.Windows.Forms.DataGridViewButtonColumn ColRemove;
-        private System.Windows.Forms.Button button1;
     }
 }

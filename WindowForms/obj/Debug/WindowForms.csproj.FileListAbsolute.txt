@@ -18,3 +18,6 @@ C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForm
 C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.pdb
 C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.LearnColorDialog.resources
 C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.LearnDateTimePicker.resources
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.LearnDataGirdView.resources
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.LearnProgressBarForm.resources
+C:\Users\Hoang Mao\source\repos\C#\CSharpCourse\WindowForms\obj\Debug\WindowForms.LearnSaveFileDialogForm.resources

@@ -22,6 +22,9 @@ namespace WindowForms
             BirthDate = birthDate;
             Gpa = gpa;
         }
-
+        public object[] ToPropertiesArray()
+        {
+            return new object[] { Id, FullName, BirthDate.ToString("dd/MM/yyy"), Major, Gpa };
+        } 
     }
 }

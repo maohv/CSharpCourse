@@ -16,6 +16,7 @@ namespace WindowForms
         public LearnDataGirdView()
         {
             InitializeComponent();
+            CreateFakeData();
         }
         private void CreateFakeData()
         {
@@ -26,15 +27,49 @@ namespace WindowForms
         }
         private void FillData()
         {
+            dataGridViewStudent.Rows.Clear(); //Mỗi lần nạp dữ liệu sẽ clear thì k bị trùng
             foreach (var item in Students)
             {
-
+                dataGridViewStudent.Rows.Add(item.ToPropertiesArray());
             }
         }
 
         private void FillDataHandler(object sender, EventArgs e)
         {
             FillData();
+        }
+
+        private void UpdateTableDataHandler(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.ColumnIndex == dataGridViewStudent.Columns["ColRemove"].Index && e.RowIndex != -1)
+            {
+                var row = dataGridViewStudent.Rows[e.RowIndex];
+                var id = row.Cells["ColId"].Value.ToString();
+                var indexToRemove = FindIndex(id);
+                if (indexToRemove > -1)
+                {
+                    var confirmAns = MessageBox.Show("Bạn có chắc chắn muốn xóa bản ghi này không ?", "Xóa bản ghi", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if (confirmAns == DialogResult.Yes)
+                    {
+                        Students.RemoveAt(indexToRemove);
+                        FillData();
+                        MessageBox.Show($"Xóa thành công sinh viên mã \"{id}\"!",
+                            "Kết quả xóa", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }
+            }
+        }
+        //phương thức tìm vị trí đối tượng cần xóa theo mã trong danh sách gốc
+        private int FindIndex(string id)
+        {
+            for (int i = 0; i < Students.Count; i++)
+            {
+                if (id.CompareTo(Students[i].Id) == 0)
+                {
+                    return i;
+                }
+            }
+            return -1;
         }
     }
 }
